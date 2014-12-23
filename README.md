@@ -1,5 +1,7 @@
-mvc-skeleton.js
+mvc-skeleton.jl
 ===============
+
+For Julia 0.3
 
 Install requirements
 
